@@ -36,6 +36,12 @@ Then install the Pods:
 pod install
 ```
 
+### Pod Install
+![Pod Install](screenshots/pod_install.png)
+
+### Log Example
+![Log Example](screenshots/log_example.png)
+
 You can find the example Binary Framework `MyConsole` source and settings in [MyConsole](https://github.com/devcarlos/MyConsole)
 
 ## Contribute
